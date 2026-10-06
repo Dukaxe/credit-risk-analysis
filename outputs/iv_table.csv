@@ -1,0 +1,37 @@
+,IV,sức phân biệt
+utilization,0.28022316510923245,trung bình
+fea_4,0.26351842316407886,trung bình
+limit_sum,0.2259283509068014,trung bình
+share_no_limit,0.1332496203916216,trung bình
+pay_normal_mean,0.11781142263892565,trung bình
+pay_normal_sum,0.09869935081659634,yếu
+credit_history_days,0.07919525708992733,yếu
+on_time_ratio,0.0629655690535501,yếu
+fea_6,0.05929119994190396,yếu
+fea_2,0.05879155561343851,yếu
+fea_1,0.054304544140598064,yếu
+fea_3,0.05368810482486391,yếu
+fea_11,0.0522522676626728,yếu
+n_products,0.04767491256129136,yếu
+balance_max,0.04742002394739594,yếu
+balance_to_highest,0.04722716308530923,yếu
+recent_update_days,0.03699405266251665,yếu
+ovd_total_cnt,0.03628480402910984,yếu
+highest_balance_max,0.033995512945890906,yếu
+ovd_days_sum,0.03336045137431601,yếu
+ovd_days_max,0.03336045137431601,yếu
+share_products_ovd,0.03265164332976595,yếu
+ovd_t1_sum,0.031953396281808114,yếu
+fea_8,0.029895298213500683,yếu
+balance_sum,0.02126893769312363,yếu
+fea_10,0.020833851463501155,yếu
+fea_2_missing,0.01865414726457404,không dùng
+n_products_ovd,0.013962868392149429,không dùng
+ever_ovd,0.013593451666734785,không dùng
+fea_9,0.011002125624769002,không dùng
+fea_7,0.010552833946365376,không dùng
+n_prod_types,0.0024710528622356965,không dùng
+fea_5,0.00011545097489865985,không dùng
+ovd_t3_max,0.0,không dùng
+ovd_t2_sum,0.0,không dùng
+ovd_t3_sum,0.0,không dùng
